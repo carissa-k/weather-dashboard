@@ -1,0 +1,63 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+input {
+    font-size:14px;
+    padding: 6px;
+    border-radius: 6px;
+    border: none;
+    width: 200px;
+}
+
+.button {
+    width: 75px;
+    background: #073059;
+    color: #fff;
+    font-weight: 700;
+}
+
+h1 {
+    margin: 0 auto;
+    text-align: center;
+    padding-top:30px;
+    color: white;
+    font-size: 40px;
+    font-weight:800;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 800;
+    color: #3cb4e7;
+    text-align: center;
+}
+
+.button-div {
+    margin-top: 25px;
+    text-align: center;
+}
+
+.date {
+    color: #3cb4e7;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.weather-today {
+    text-align: center;
+    font-weight:500;
+}
+
+.card-header {
+    background: #3cb4e7; 
+    height: 45px; 
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.card-text {
+    font-size: 14px;
+}
