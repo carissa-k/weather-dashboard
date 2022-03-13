@@ -13,4 +13,4 @@ https://carissa-k.github.io/weather-dashboard/
 
 A screenshot of the application is below:
 
-![image](https://raw.githubusercontent.com/carissa-k/day-planner/main/weather-dashboard.png)
+![image](https://raw.githubusercontent.com/carissa-k/weather-dashboard/main/weather-dashboard.png)
